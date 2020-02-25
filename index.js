@@ -46,21 +46,21 @@ try{
   stylesObject.topictext = topictext;
 
   if(background) {
-    sassCode = `${sassCode} $body-bg: ${background};`;
+    sassCode = `${sassCode} $body-bg: ${background};`
   }
   if(text) {
-    sassCode = `${sassCode} $text-color: ${text};`;
-    sassCode = `${sassCode} $navbar-inverse-color: ${text};`;
+    sassCode = `${sassCode} $text-color: ${text};`
   }
   if(cardbg) {
-    sassCode = `${sassCode} $well-bg: ${cardbg};`;
-    sassCode = `${sassCode} $panel-bg: ${cardbg};`;
+
   }
   if(cardtext) {
     //sassCode = `${sassCode} $card-text: ${cardtext};`
   }
   if(buttonbg) {
     sassCode = `${sassCode} $btn-default-bg: ${buttonbg};`;
+    sassCode = `${sassCode} $well-bg: ${cardbg};`;
+    sassCode = `${sassCode} $panel-bg: ${cardbg};`;
     sassCode = `${sassCode} $brand-primary: ${buttonbg};`;
     sassCode = `${sassCode} $navbar-default-bg: ${buttonbg};`;
   }
@@ -73,7 +73,7 @@ try{
   sassCode += `:root {
   --navbar-color: ${buttonbg};
   --hover-color: ${buttonbg};
-  --btn-color: ${text};
+  --btn-color: ${buttonbg};
 }`;
   console.log(sassCode);
 } catch(error){

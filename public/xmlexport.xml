@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <content>
- <machinelist>
- </machinelist>
- <customer> <logo>https://www.forklift-international.com/userbild/logo/362.jpg</logo>
-  <userimage pos="1">https://www.forklift-international.com//bilder/d450x362_11349159502.3695.jpg</userimage>
-  <userimage pos="2">https://www.forklift-international.com//bilder/d450x362_21349159502.3781.jpg</userimage>
-  <servicefor>Gebraucht, Linde</servicefor>
-  <userinfos>Seit dem 1. Juni 2004 arbeiten wir in unserer neuen Halle im Gewerbegebiet
-   &quot;An der Fuchsbäke&quot; in Oldenburg-Eversten. Hier steht uns doppelt soviel Platz wie früher zur Verfügung und wir können sagen: Es hat sich gelohnt !
+<machinelist>
+</machinelist>
+<customer> <logo>https://www.forklift-international.com/userbild/logo/362.jpg</logo>
+ <userimage pos="1">https://www.forklift-international.com//bilder/d450x362_11349159502.3695.jpg</userimage>
+ <userimage pos="2">https://www.forklift-international.com//bilder/d450x362_21349159502.3781.jpg</userimage>
+ <servicefor>Gebraucht, Linde</servicefor>
+ <userinfos>Seit dem 1. Juni 2004 arbeiten wir in unserer neuen Halle im Gewerbegebiet 
+&quot;An der Fuchsbäke&quot; in Oldenburg-Eversten. Hier steht uns doppelt soviel Platz wie früher zur Verfügung und wir können sagen: Es hat sich gelohnt !
 
 
-   Im Februar 1995 wurde die Firma L&amp;S Autowerkstatt GmbH von Kurt Liebenow  (KFZ-Meister) und Björn Schüler (KFZ-Meister) gegründet. Die angemietete kleine Werkstatt, im Weißdornweg in Bad Zwischenahn-Wehnen, hatte für den Anfang genau die richtige Größe. Bald zeigte sich, daß mit steigender Kunden- und Mitarbeiterzahl der Platz zu eng wurde. Hinzu kam die Erweiterung unseres Angebots, durch einen Gabelstaplerdienst den wir seit 1997 zusätzlich anbieten. Von Beginn an gehörten Wartung, Instandsetzung ec. von Gasanlagen zu unserem Leistungsspektrum.
+Im Februar 1995 wurde die Firma L&amp;S Autowerkstatt GmbH von Kurt Liebenow  (KFZ-Meister) und Björn Schüler (KFZ-Meister) gegründet. Die angemietete kleine Werkstatt, im Weißdornweg in Bad Zwischenahn-Wehnen, hatte für den Anfang genau die richtige Größe. Bald zeigte sich, daß mit steigender Kunden- und Mitarbeiterzahl der Platz zu eng wurde. Hinzu kam die Erweiterung unseres Angebots, durch einen Gabelstaplerdienst den wir seit 1997 zusätzlich anbieten. Von Beginn an gehörten Wartung, Instandsetzung ec. von Gasanlagen zu unserem Leistungsspektrum. 
 
-   Für unsere neue Werkstatt mußten wir lange nach einem geeigneten Grundstück suchen. Anfang 2004 hat es dann geklappt und unser Neubauvorhaben konnte beginnen. Nach einer bald erforderlichen zusätzlichen Erweiterung der Halle im Jahre 2006, stehen uns für unsere Arbeit nun 6 Hebebühnen auf 450 qm Hallenfläche zur Verfügung. Für Kunden haben wir im Bereich unseres Empfangsbüros eine Kundenzone eingerichtet.
+Für unsere neue Werkstatt mußten wir lange nach einem geeigneten Grundstück suchen. Anfang 2004 hat es dann geklappt und unser Neubauvorhaben konnte beginnen. Nach einer bald erforderlichen zusätzlichen Erweiterung der Halle im Jahre 2006, stehen uns für unsere Arbeit nun 6 Hebebühnen auf 450 qm Hallenfläche zur Verfügung. Für Kunden haben wir im Bereich unseres Empfangsbüros eine Kundenzone eingerichtet.
 
-   Hier können Sie in unserer kleinen Sitzecke bei einer Tasse Kaffe, oder Schokolade gemütlich Zeitung lesen und auf Ihr Fahrzeug warten.</userinfos>
-  <company>L&amp;S Gabelstapler - Service</company>
-  <contact image="https://www.forklift-international.com/userbild/362.jpg">Kurt Liebenow</contact>
-  <street>An der Fuchsbäke 9</street>
-  <postcode>26131</postcode>
-  <city>Oldenburg</city>
-  <phone>+49/(0)441-6990220</phone>
-  <fax>+49/(0)441-6990219</fax>
-  <mobile>+49/(0)172 9822634</mobile>
-  <email>kurt.liebenow@lunds-gabelstapler.de</email>
-  <ceo>Kurt Liebenow / Björn Schüler</ceo>
-  <vat>DE170349216</vat>
-  <regid>HRB5705 / Oldenburg</regid>
-  <currency>EUR</currency>
-  <units>metrisch</units>
-  <background>#ffffff</background>
-  <text>#000000</text>
-  <cardbg>#e2e2e2</cardbg>
-  <cardtext>#404042</cardtext>
-  <buttonbg>#315fac</buttonbg>
-  <buttontext>#ffffff</buttontext>
-  <topictext>#000000</topictext>
- </customer>
+Hier können Sie in unserer kleinen Sitzecke bei einer Tasse Kaffe, oder Schokolade gemütlich Zeitung lesen und auf Ihr Fahrzeug warten.</userinfos>
+ <company>L&amp;S Gabelstapler - Service</company>
+ <contact image="https://www.forklift-international.com/userbild/362.jpg">Kurt Liebenow</contact>
+ <street>An der Fuchsbäke 9</street>
+ <postcode>26131</postcode>
+ <city>Oldenburg</city>
+ <phone>+49/(0)441-6990220</phone>
+ <fax>+49/(0)441-6990219</fax>
+ <mobile>+49/(0)172 9822634</mobile>
+ <email>kurt.liebenow@lunds-gabelstapler.de</email>
+ <ceo>Kurt Liebenow / Björn Schüler</ceo>
+ <vat>DE170349216</vat>
+ <regid>HRB5705 / Oldenburg</regid>
+ <currency>EUR</currency>
+ <units>metrisch</units>
+ <background>#ffffff</background>
+ <text>#000000</text>
+ <cardbg>#e2e2e2</cardbg>
+ <cardtext>#404042</cardtext>
+ <buttonbg>#315fac</buttonbg>
+ <buttontext>#ffffff</buttontext>
+ <topictext>#000000</topictext>
+</customer>
 </content>
